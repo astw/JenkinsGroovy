@@ -9,3 +9,9 @@ C:\code\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyIn
 C:\code\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
 C:\code\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\code\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\work\jenkins\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\work\jenkins\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\work\jenkins\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\work\jenkins\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\work\jenkins\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\work\jenkins\JenkinsGroovy\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

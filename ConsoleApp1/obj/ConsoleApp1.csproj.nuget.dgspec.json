@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\work\\jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\code\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\work\\jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\work\\jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\code\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\JenkinsGroovy\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\work\\jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\shwang\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\jenkins\\JenkinsGroovy\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shwang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
